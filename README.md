@@ -244,5 +244,3 @@ pour chaque palier (5 fois) :
 ## 📄 Licence
 
 Projet pédagogique — libre d'utilisation.
-#   M e t a h e u r i s t i q u e _ t d  
- 
