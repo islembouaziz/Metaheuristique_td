@@ -66,17 +66,12 @@ python main.py 3 --no-show  # sans ouvrir la fenêtre matplotlib
 ### Exercice 3 — TSP (Recuit Simulé)
 ![Ex3 Recuit](assets/ex3_recuit.gif)
 
-### 📹 Vidéo de présentation *(à ajouter)*
-<!-- Option 1 : glisser-déposer un .mp4 dans l'éditeur GitHub du README, GitHub génère le lien -->
-<!-- Option 2 : lien YouTube : [![Vidéo](assets/miniature.png)](https://youtu.be/XXXXXXXX) -->
-
-> 🎥 *Emplacement réservé : vidéo de démonstration (≈ 2 min) de `python main.py`.*
 
 ### 🖼️ Captures d'écran supplémentaires *(à ajouter)*
 
 | Menu console | Résultat final Ex.2 | Résultat final Ex.3 |
 |:---:|:---:|:---:|
-| `assets/capture_menu.png` | `assets/capture_ex2.png` | `assets/capture_ex3.png` |
+| ![Menu console](assets/capture_menu.png) | ![Résultat Ex.2](assets/capture_ex2.png) | ![Résultat Ex.3](assets/capture_ex3.png) |
 
 ---
 
